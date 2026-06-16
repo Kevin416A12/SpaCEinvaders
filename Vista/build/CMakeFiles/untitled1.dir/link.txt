@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/untitled1.dir/main.c.o CMakeFiles/untitled1.dir/Model/game_state.c.o CMakeFiles/untitled1.dir/Controller/client_controller.c.o CMakeFiles/untitled1.dir/View/sdl_view.c.o -o untitled1  /usr/lib/x86_64-linux-gnu/libSDL2.so -lpthread 
